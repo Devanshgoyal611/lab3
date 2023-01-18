@@ -1,0 +1,11 @@
+nav {
+    background-color: aqua;
+    position: sticky;
+}
+nav li{
+    display: inline;
+    margin: 10px;
+}
+nav li a{
+    text-decoration: none;
+}
